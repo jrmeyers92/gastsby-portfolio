@@ -18,9 +18,12 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'me.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne:
+    "Greetings, I'm a Web Developer specalizing in the Front-End. I am proficient using HTML, CSS, and JavaScript, React, Sass, Git and more. ",
+  paragraphTwo:
+    "I enjoy teaching myself new technologies and computer science concepts. I'm currently reading Grokking Algorithms and playing around with the D3 library. ",
+  paragraphThree:
+    'When not coding, you can find me playing with my dog, camping or backpacking, mountain biking, going on float trips, or haning out with friends and family. ',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
