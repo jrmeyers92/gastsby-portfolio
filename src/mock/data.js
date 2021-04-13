@@ -46,7 +46,7 @@ export const projectsData = [
     info: 'Used React, React Router DOM, Material UI, and Firebase to create an Instagram clone.',
     info2:
       'User is able to create an account, post pictures with captions, and view posts from other users.',
-    url: '',
+    url: 'https://instagram-clone-74f50.web.app/',
     repo: 'https://github.com/jrmeyers92/instagram-react', // if no repo, the button will not show up
   },
   {
