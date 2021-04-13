@@ -33,8 +33,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'ExpenseTracker.png',
     title: 'Expense Tracker',
-    info: '',
-    info2: '',
+    info:
+      'Used React (including UseContext, UseReducer, UseState, UseEffect, and custom hooks) and Material UI to create an expense tracker app.',
+    info2: 'User is able to add and remove income and expenses throughout different categories.',
     url: 'https://react-expense-tracker-1.netlify.app/',
     repo: 'https://github.com/jrmeyers92/expense-tracker', // if no repo, the button will not show up
   },
@@ -42,8 +43,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'InstagramClone.png',
     title: 'Instagram Clone',
-    info: '',
-    info2: '',
+    info: 'Used React, React Router DOM, Material UI, and Firebase to create an Instagram clone.',
+    info2:
+      'User is able to create an account, post pictures with captions, and view posts from other users.',
     url: '',
     repo: 'https://github.com/jrmeyers92/instagram-react', // if no repo, the button will not show up
   },
@@ -51,7 +53,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'RaftingCompany.jpg',
     title: 'White Water Rafting Co.',
-    info: '',
+    info:
+      'Utilized JavaScript, SASS, and HTML to create a landing page for a white water rafting company.',
     info2: '',
     url: 'https://raftingcompany.netlify.app/',
     repo: 'https://github.com/jrmeyers92/RaftingCompany', // if no repo, the button will not show up
@@ -62,7 +65,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'JakeRMeyers92@gmail.com',
 };
 
 // FOOTER DATA
@@ -71,22 +74,22 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/jakemeyers92',
     },
     {
       id: nanoid(),
       name: 'codepen',
-      url: '',
+      url: 'https://codepen.io/jrmeyers92',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'www.linkedin.com/in/jake-meyers-477b7a52',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/jrmeyers92',
     },
   ],
 };
