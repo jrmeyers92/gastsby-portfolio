@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     "I enjoy teaching myself new technologies and computer science concepts. I'm currently reading Grokking Algorithms and playing around with the D3 library. ",
   paragraphThree:
-    'When not coding, you can find me playing with my dog, camping or backpacking, mountain biking, going on float trips, or haning out with friends and family. ',
+    'When not coding, you can find me playing with my dog, camping or backpacking, mountain biking, going on float trips, or hanging out with friends and family. ',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -31,30 +31,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'ExpenseTracker.png',
+    title: 'Expense Tracker',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://react-expense-tracker-1.netlify.app/',
+    repo: 'https://github.com/jrmeyers92/expense-tracker', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'InstagramClone.png',
+    title: 'Instagram Clone',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/jrmeyers92/instagram-react', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'RaftingCompany.jpg',
+    title: 'White Water Rafting Co.',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://raftingcompany.netlify.app/',
+    repo: 'https://github.com/jrmeyers92/RaftingCompany', // if no repo, the button will not show up
   },
 ];
 
