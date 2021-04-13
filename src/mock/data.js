@@ -24,7 +24,7 @@ export const aboutData = {
     "I enjoy teaching myself new technologies and computer science concepts. I'm currently reading Grokking Algorithms and playing around with the D3 library. ",
   paragraphThree:
     'When not coding, you can find me playing with my dog, camping or backpacking, mountain biking, going on float trips, or hanging out with friends and family. ',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
