@@ -51,7 +51,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'RaftingCompany.png',
+    img: 'RaftingCompany.pnge',
     title: 'White Water Rafting Co.',
     info:
       'Utilized JavaScript, SASS, and HTML to create a landing page for a white water rafting company.',
