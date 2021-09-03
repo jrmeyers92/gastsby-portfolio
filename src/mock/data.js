@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Jake Meyers',
-  subtitle: "I'm a Front-End Web Developer",
+  subtitle: "I'm a Front-End Software Developer",
   cta: 'Learn More',
 };
 
@@ -19,12 +19,12 @@ export const heroData = {
 export const aboutData = {
   img: 'me.jpg',
   paragraphOne:
-    "Greetings, I'm a Web Developer specalizing in the Front-End. I am proficient using HTML, CSS, and JavaScript, React, Sass, Git and more. ",
+    "Greetings, I'm a Software Developer with professional industy experience. I am proficient using HTML, CSS, and JavaScript, React, Vue, Sass, Tailwind, Git and more. ",
   paragraphTwo:
-    "I enjoy teaching myself new technologies and computer science concepts. I'm currently reading Grokking Algorithms and playing around with the D3 library. ",
+    "I enjoy teaching myself new technologies and computer science concepts. I'm currently reading Grokking Algorithms and playing around with the JavaScript D3 library. ",
   paragraphThree:
-    'When not coding, you can find me playing with my dog, camping or backpacking, mountain biking, going on float trips, or hanging out with friends and family. ',
-  resume: '', // if no resume, the button will not show up
+    'When not coding, you can find me playing with my dog, reading, camping or backpacking, mountain biking, going on float trips, or hanging out with friends and family. ',
+  resume: 'https://jakemeyersresume.netlify.app/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -51,7 +51,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'RaftingCompany.pnge',
+    img: 'RaftingCompany.png',
     title: 'White Water Rafting Co.',
     info:
       'Utilized JavaScript, SASS, and HTML to create a landing page for a white water rafting company.',
@@ -78,13 +78,8 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: 'https://codepen.io/jrmeyers92',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
-      url: 'www.linkedin.com/in/jake-meyers-477b7a52',
+      url: 'https://www.linkedin.com/in/jake-meyers-477b7a52',
     },
     {
       id: nanoid(),
