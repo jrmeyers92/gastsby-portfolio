@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'me.jpg',
   paragraphOne:
-    "Greetings, I'm a Software Developer with professional industy experience. I am proficient using HTML, CSS, and JavaScript, React, Vue, Sass, Tailwind, Git and more. ",
+    "Greetings, I'm a Software Developer with industy experience using HTML, CSS, and JavaScript, React, Vue, Sass, Tailwind, Git and more. ",
   paragraphTwo:
     "I enjoy teaching myself new technologies and computer science concepts. I'm currently reading Grokking Algorithms and playing around with the JavaScript D3 library. ",
   paragraphThree:
